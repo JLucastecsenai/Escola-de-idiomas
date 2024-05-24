@@ -1,0 +1,41 @@
+p, h1, h2, h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cabecalho{
+    background-color: #dfdfdf;
+    text-align: center;
+}
+.img_logo{
+    margin-top: 2%;
+}
+.titulo{
+    font-size: 25px;
+}
+.subtitulo{
+    color: #0291dd;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.parte1{
+    background-color: #0291dd;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.img_bandeiras{
+    width: 50px;
+    padding-top:20px;
+}
+.texto_B{
+    color: white;
+    padding-bottom: 20px;
+    font-size: large;
+}
+.parte2{
+    text-align: center;
+}
+.texto_A{
+    color: white;
+    font-size: large;
+}
